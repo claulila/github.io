@@ -10,3 +10,6 @@ Der originale Kermit wurde aus einem ausrangierten Federmantel von Hensons Mutte
 * hat einen eigenen Stern auf dem Hollywood Walk of Fame
 
 > It's not easy being green.
+
+
+<img src="https://www.freefm.de/sites/defaults/files/5bad5bba1f0000390122a1bd.jpeg"/>
