@@ -8,3 +8,5 @@ Der originale Kermit wurde aus einem ausrangierten Federmantel von Hensons Mutte
 * ging nach Hollywood, da ein Agent ihm Talent bescheinigte
 * war liiert mit Miss Piggy
 * hat einen eigenen Stern auf dem Hollywood Walk of Fame
+
+> It's not easy being green.
